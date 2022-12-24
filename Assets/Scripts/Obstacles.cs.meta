@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 1567209522336644ebe3f66d35177786
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - wall_mat: {fileID: 2100000, guid: 8cc78199f255bbf4b88fb5f3cd939a3b, type: 2}
+  - obstacle_mat: {fileID: 2100000, guid: 0360905e2d5f02b47a9e2592d79b8b3d, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
